@@ -12,7 +12,7 @@
 
 # 버전 체크
 
-### 1) nvidia-drvier
+### 1) nvidia-driver
 
 
 
@@ -203,6 +203,5 @@ $ sudo rm -rf /usr/local/cuda*
 [참고]
 
 https://blog.nerdfactory.ai/2019/07/25/how-to-install-tensorflow-gpu-in-ubuntu16.04-copy.html
-
 https://cafepurple.tistory.com/39
 
